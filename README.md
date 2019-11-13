@@ -6,7 +6,7 @@ O projeto foi desenvolvido para a Clínica veterinária Pet Store Lilicão, com 
 
 Eu e minha equipe tivemos a oportunidade de utilizar diversas ferramentas para a criação desse sistema web.
 
-Ferramentas utilizadas
+Ferramentas utilizadas:
 
 MYSQL
 
@@ -14,11 +14,11 @@ Backend:
 PHP
 
 Frontend:
-HTML5
+HTML5,
 CSS5
 
 framework:
-codeigniter
+codeigniter,
 Bootstrap
 
 Existem algumas funções no sistema que precisam ser melhorada e também finalizada, mas boa parte já esta pronta.
