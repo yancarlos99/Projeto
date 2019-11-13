@@ -26,14 +26,14 @@ Existem algumas funções no sistema que precisam ser melhorada e também finali
 O arquivo do banco de dados se chama: dw_172_yan.sql
 
 <img src=print/home.jpg />
-<img src=home2.jpg />
-<img src=valores.jpg />
-<img src=servicos.jpg />
-<img src=informativos.jpg />
-<img src=informativos1.jpg />
-<img src=informativos2.jpg />
-<img src=contatos.jpg />
-<img src=adm.jpg />
-<img src=agendamentos.jpg />
-<img src=mensagens.jpg />
+<img src=print/home2.jpg />
+<img src=print/valores.jpg />
+<img src=print/servicos.jpg />
+<img src=print/informativos.jpg />
+<img src=print/informativos1.jpg />
+<img src=print/agendamentocli.jpg />
+<img src=print/contatos.jpg />
+<img src=print/adm.jpg />
+<img src=print/agendamentos.jpg />
+<img src=print/mensagens.jpg />
 
